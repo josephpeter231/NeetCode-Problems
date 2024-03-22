@@ -1,0 +1,9 @@
+Java
+
+4 Types of method
+Abstraction - showing relevant information that is needed
+Encapsulation - Making the java code secure data is stored within 
+                the classes and its not easy to access it.
+Inheritance - A class that is inherited by other class.
+Polymorphism - Using same method for different tasks.
+
